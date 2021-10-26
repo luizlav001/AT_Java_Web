@@ -1,0 +1,7 @@
+Flamengo; true; Carioca; carioca@infnet.edu.br; Rio de Janeiro;
+J;Luiz;1;Liberado;2000.0;Atacante;30;3000.0;Ganhou;2200.0
+J; Lincoln;2;Não liberado;1500.0;Zagueiro;25;2000.0;Não ganhou;1575.0
+C; Gregory;30;Liberado;900.0;Treinaddor;Técnico;5;990.0
+C; Lays;31;Não liberado;800.0;Nutrucionista;Menbro da comissão;2;840.0
+G; João;50;Liberado;1200.0;Presidente;Cargo de confiança;0.0;1320.0
+G; Pedro;51;Liberado;500.0;Diretor de futebol;Cargo simples;0.0;525.0
