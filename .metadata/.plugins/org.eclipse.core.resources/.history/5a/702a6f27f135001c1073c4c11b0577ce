@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>TP1</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+	
+	<div class="container">
+		<form action="usuario" method="post">
+			<div class="form-group">
+				<label>Nome:</label> 
+				<input value="Luiz Lincoln" type="text" class="form-control" placeholder="Entre com seu nome" name="name">
+			</div>
+
+			<div class="form-group">
+				<label>E-mail:</label> 
+				<input value="luiz@gmail.com" type="email"class="form-control" placeholder="Entre com seu email"name="email">
+			</div>
+
+			<div class="form-group">
+				<label>Senha:</label> 
+				  <label class="form-group">
+				   <input type="password" class="form-control" placeholder="Entre com seu email"  name="senha">
+				  </label>
+			</div>
+					<button class="btn btn-danger" type="submit">Cadastrar</button>
+		</form>
+	</div>
+</body>
+</html>

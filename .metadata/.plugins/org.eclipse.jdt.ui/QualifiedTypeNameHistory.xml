@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.Gestor"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.exception.CargoNullException"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.Confederacao"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.Jogador"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.exception.PosicaoNullException"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.ComissaoTecnica"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.exception.FuncaoNullException"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.Integrante"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.Time"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.model.domain.Aluno"/>
+</qualifiedTypeNameHistroy>

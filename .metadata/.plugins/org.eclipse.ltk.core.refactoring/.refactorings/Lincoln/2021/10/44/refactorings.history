@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Lincoln/Fundamentos Java/appTimeFutebol/br/edu/infnet/appTimeFutebol/src/main/webapp/WEB-INF/jsp/confirmacao.html&apos; to &apos;confirmacao.jsp&apos;" description="Rename resource &apos;confirmacao.html&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Fundamentos Java/appTimeFutebol/br/edu/infnet/appTimeFutebol/src/main/webapp/WEB-INF/jsp/confirmacao.html" name="confirmacao.jsp" stamp="1635215143357" updateReferences="true"/>
+</session>

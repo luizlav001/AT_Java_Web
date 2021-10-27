@@ -1,0 +1,31 @@
+package br.edu.infnet.testes;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListTeste {
+	
+	public static void main(String[] args) {
+		
+		//criação: definição + instância
+		String[] nomes = new String[2];
+		List<String> lista = new ArrayList<String>();
+		
+		//inclusão
+		nomes[0] = "Luiz";
+		nomes[1] = "Lincoln";
+		
+		lista.add("João");
+		lista.add("Maria");
+		lista.add("Camila");
+		
+		// leitura individual
+		System.out.println(nomes[0]);
+		
+		//leitura em grupo
+		for(String nome : nomes) {
+			System.out.println(nome);
+		}
+	}
+
+}

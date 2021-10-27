@@ -1,0 +1,5 @@
+package br.edu.infnet.apptimefutebol.model.exception;
+
+public class PosicaoNullException {
+
+}
