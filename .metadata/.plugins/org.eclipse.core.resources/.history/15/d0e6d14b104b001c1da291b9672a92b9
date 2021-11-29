@@ -1,0 +1,10 @@
+package br.edu.infnet.model.repository;
+
+public class AcessoRespository {
+
+	public validar(String email, String senha){
+		if(email.equalsIgnoreCase(senha)) {
+			
+		}
+	}
+}

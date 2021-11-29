@@ -1,0 +1,13 @@
+package br.edu.infnet.model.repository;
+
+import br.edu.infnet.model.domain.Usuario;
+
+public class AcessoRespository {
+
+	public Usuario validar(String email, String senha){
+		
+		return null;
+		//if(email.equalsIgnoreCase(senha)) 
+			
+	}
+}

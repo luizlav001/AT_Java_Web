@@ -1,0 +1,12 @@
+package br.edu.infnet.apptimefutebol;
+
+import src.br.edu.infnet.apptimefutebol.model.AppTimeFutebolApplication;
+import src.br.edu.infnet.apptimefutebol.model.String;
+
+public class AppTimeFutebolAppliccation {
+
+	public static void main(String[] args) {
+		SpringApplication.run(AppTimeFutebolApplication.class, args);
+	}
+
+}

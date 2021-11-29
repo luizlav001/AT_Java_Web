@@ -1,0 +1,26 @@
+package br.edu.infnet.meuApp.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RestController;
+
+import br.edu.infnet.meuApp.model.Time;
+import br.edu.infnet.meuApp.repository.TimeRepository;
+
+@RestController
+public class TimeController {
+
+	@Autowired
+	private TimeRepository  timeRepository;
+	
+	@RequestMapping(value = "/time/all", method = RequestMethod.GET)
+	public List<Time> findAll(){
+		
+		String nome;
+		timeRepository.save(nome = "Flamengo");
+		return timeRepository.findAll();
+	}
+}

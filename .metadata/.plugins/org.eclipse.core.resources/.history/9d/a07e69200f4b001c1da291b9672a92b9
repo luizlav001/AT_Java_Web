@@ -1,0 +1,9 @@
+package br.edu.infnet.model.repository;
+
+public class AcessoRespository {
+
+	validar(){
+		if(email.equalsIgnoreCase(senha)) {
+		}
+	}
+}

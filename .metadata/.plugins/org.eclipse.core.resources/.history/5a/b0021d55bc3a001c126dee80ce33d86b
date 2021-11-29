@@ -1,0 +1,21 @@
+package br.edu.infnet.meuApp.controller;
+
+import java.util.List;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RestController;
+
+import br.edu.infnet.meuApp.model.Hobby;
+import br.edu.infnet.meuApp.repository.HobbyRepository;
+
+@RestController
+public class HobbyController {
+
+	@Autowired
+	private HobbyRepository hobbyRepository;
+	
+	public List<Hobby> findAll(){
+		return hobbyRepository.findAll();
+	}
+	
+}

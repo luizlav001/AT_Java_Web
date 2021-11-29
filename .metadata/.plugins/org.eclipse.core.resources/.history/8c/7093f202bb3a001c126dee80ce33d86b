@@ -1,0 +1,5 @@
+package br.edu.infnet.meuApp.controller;
+
+public class TimeController {
+
+}

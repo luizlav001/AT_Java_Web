@@ -1,0 +1,6 @@
+package br.edu.infnet.apptimefutebol.domain.controller;
+
+@Controller
+public class AlunoController {
+
+}
