@@ -1,4 +1,4 @@
-package br.edu.infnet.apptimefutebol.model.domain;
+package src.br.edu.infnet.apptimefutebol.model.domain;
 
 public class Confederacao {
 

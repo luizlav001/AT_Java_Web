@@ -1,6 +1,6 @@
 package br.edu.infnet.apptimefutebol.model.testes;
 
-import br.edu.infnet.apptimefutebol.model.domain.Confederacao;
+import src.br.edu.infnet.apptimefutebol.model.domain.Confederacao;
 
 public class ConfederacaoTeste {
 

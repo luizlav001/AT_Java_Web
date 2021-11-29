@@ -10,4 +10,17 @@
     <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.Integrante"/>
     <fullyQualifiedTypeName name="br.edu.infnet.apptimefutebol.model.domain.Time"/>
     <fullyQualifiedTypeName name="br.edu.infnet.model.domain.Aluno"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.meuApp.repository.HobbyRepository"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.meuApp.model.Hobby"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.meuApp.repository.TimeRepository"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="br.edu.infnet.meuApp.model.Time"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMethod"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestParam"/>
 </qualifiedTypeNameHistroy>

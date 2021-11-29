@@ -8,15 +8,15 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-import br.edu.infnet.apptimefutebol.model.domain.ComissaoTecnica;
-import br.edu.infnet.apptimefutebol.model.domain.Confederacao;
-import br.edu.infnet.apptimefutebol.model.domain.Gestor;
 import br.edu.infnet.apptimefutebol.model.domain.Integrante;
-import br.edu.infnet.apptimefutebol.model.domain.Jogador;
-import br.edu.infnet.apptimefutebol.model.domain.Time;
-import br.edu.infnet.apptimefutebol.model.exception.CargoNullException;
-import br.edu.infnet.apptimefutebol.model.exception.FuncaoNullException;
-import br.edu.infnet.apptimefutebol.model.exception.PosicaoNullException;
+import src.br.edu.infnet.apptimefutebol.model.domain.ComissaoTecnica;
+import src.br.edu.infnet.apptimefutebol.model.domain.Confederacao;
+import src.br.edu.infnet.apptimefutebol.model.domain.Gestor;
+import src.br.edu.infnet.apptimefutebol.model.domain.Jogador;
+import src.br.edu.infnet.apptimefutebol.model.domain.Time;
+import src.br.edu.infnet.apptimefutebol.model.model.exception.CargoNullException;
+import src.br.edu.infnet.apptimefutebol.model.model.exception.FuncaoNullException;
+import src.br.edu.infnet.apptimefutebol.model.model.exception.PosicaoNullException;
 
 public class ArquivoTeste {
 

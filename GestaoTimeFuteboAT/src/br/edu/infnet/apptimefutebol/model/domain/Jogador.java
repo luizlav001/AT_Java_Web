@@ -1,6 +1,6 @@
-package br.edu.infnet.apptimefutebol.model.domain;
+package src.br.edu.infnet.apptimefutebol.model.domain;
 
-import br.edu.infnet.apptimefutebol.model.exception.PosicaoNullException;
+import src.br.edu.infnet.apptimefutebol.model.exception.PosicaoNullException;
 
 public class Jogador extends Integrante {
 	

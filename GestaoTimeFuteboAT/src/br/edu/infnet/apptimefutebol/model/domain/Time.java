@@ -1,4 +1,4 @@
-package br.edu.infnet.apptimefutebol.model.domain;
+package src.br.edu.infnet.apptimefutebol.model.domain;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

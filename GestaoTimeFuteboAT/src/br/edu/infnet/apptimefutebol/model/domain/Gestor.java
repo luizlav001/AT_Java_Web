@@ -1,6 +1,6 @@
-package br.edu.infnet.apptimefutebol.model.domain;
+package src.br.edu.infnet.apptimefutebol.model.domain;
 
-import br.edu.infnet.apptimefutebol.model.exception.CargoNullException;
+import src.br.edu.infnet.apptimefutebol.model.exception.CargoNullException;
 
 public class Gestor extends Integrante {
 
